@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 797097cc-c3b9-3653-0f40-c0f8598b2654
 resourcetype: Document
 title: exponentiation.pdf
 uid: 6f694a7f-f7c9-c20c-60e0-fa5ef4486142

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 797097cc-c3b9-3653-0f40-c0f8598b2654
 resourcetype: Document
 title: chuh_trng_thesis.pdf
 uid: 489f7e42-fb61-9645-158d-7c21a8fb83ad

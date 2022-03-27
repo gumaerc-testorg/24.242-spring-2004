@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 797097cc-c3b9-3653-0f40-c0f8598b2654
 resourcetype: Document
 title: nonstandrd_modls.pdf
 uid: ef3e9da2-0b38-7581-eee9-daef90a4ab82

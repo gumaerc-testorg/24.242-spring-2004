@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes detailed lecture material used in this course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Why Study Computability? ([PDF]({{< baseurl >}}/resources/why_study_comptt))
+Why Study Computability? ({{% resource_link 20c09c32-f5c2-37d1-fb42-07a83153dbb5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Why Study Computability? ([PDF]({{< baseurl >}}/resources/why_study_comptt))
 2-3
 {{< tdclose >}}
 {{< tdopen >}}
-Key Computability Concepts ([PDF]({{< baseurl >}}/resources/key_coptbty_cons))
+Key Computability Concepts ({{% resource_link ed0bd05e-c59b-448c-bfe0-b2599f68e177 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Key Computability Concepts ([PDF]({{< baseurl >}}/resources/key_coptbty_cons))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-The Language of Arithmetic ([PDF]({{< baseurl >}}/resources/lange_of_arithmt))
+The Language of Arithmetic ({{% resource_link 69264e67-df98-52bb-9c5e-b003b6c7fdb6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ The Language of Arithmetic ([PDF]({{< baseurl >}}/resources/lange_of_arithmt))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Church-Turing Thesis ([PDF]({{< baseurl >}}/resources/chuh_trng_thesis))
+Church-Turing Thesis ({{% resource_link 489f7e42-fb61-9645-158d-7c21a8fb83ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Church-Turing Thesis ([PDF]({{< baseurl >}}/resources/chuh_trng_thesis))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Nonstandard Models of Arithmetic ([PDF]({{< baseurl >}}/resources/nonstandrd_modls))
+Nonstandard Models of Arithmetic ({{% resource_link ef3e9da2-0b38-7581-eee9-daef90a4ab82 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Nonstandard Models of Arithmetic ([PDF]({{< baseurl >}}/resources/nonstandrd_mod
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Gödel Numbering ([PDF]({{< baseurl >}}/resources/goedel_numbering))
+Gödel Numbering ({{% resource_link ece70acf-d3a0-f128-4ae0-503ac8cf40d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Gödel Numbering ([PDF]({{< baseurl >}}/resources/goedel_numbering))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Robinson's Arithmetic ([PDF]({{< baseurl >}}/resources/robison_arthmetc))
+Robinson's Arithmetic ({{% resource_link 14eebb48-bc58-35bd-1b02-86b965aff439 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ Robinson's Arithmetic ([PDF]({{< baseurl >}}/resources/robison_arthmetc))
 9-10
 {{< tdclose >}}
 {{< tdopen >}}
-Coding Proofs ([PDF]({{< baseurl >}}/resources/coding_proofs))
+Coding Proofs ({{% resource_link 31dfcdf2-bebf-afc1-bcf1-4c16b2a90552 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Coding Proofs ([PDF]({{< baseurl >}}/resources/coding_proofs))
 11-12
 {{< tdclose >}}
 {{< tdopen >}}
-Peano Arithmetic ([PDF]({{< baseurl >}}/resources/peano_arithmetic))
+Peano Arithmetic ({{% resource_link 2ba966be-09dd-1301-d41d-98be9276f3d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Peano Arithmetic ([PDF]({{< baseurl >}}/resources/peano_arithmetic))
 13-14
 {{< tdclose >}}
 {{< tdopen >}}
-Self-Reference Lemma ([PDF]({{< baseurl >}}/resources/self_reference))
+Self-Reference Lemma ({{% resource_link 98fe206d-a995-b1dd-18ce-af5eaf851b09 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Self-Reference Lemma ([PDF]({{< baseurl >}}/resources/self_reference))
 15-16
 {{< tdclose >}}
 {{< tdopen >}}
-First Incompleteness Theorem ([PDF]({{< baseurl >}}/resources/1st_incompletens))
+First Incompleteness Theorem ({{% resource_link 84bf60d1-6f0a-ccc2-97f0-c9f55fa756fa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +125,7 @@ First Incompleteness Theorem ([PDF]({{< baseurl >}}/resources/1st_incompletens))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Interpretations ([PDF]({{< baseurl >}}/resources/interpretations))
+Interpretations ({{% resource_link 05cfcbce-b879-c776-6765-031b8fb3531e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ Interpretations ([PDF]({{< baseurl >}}/resources/interpretations))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Tarski's Theory of Truth ([PDF]({{< baseurl >}}/resources/tarski))
+Tarski's Theory of Truth ({{% resource_link 85ec169d-ba3e-a919-2b8f-abf6e4b097df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Articles by Lucas and Benacerraf
 20-21
 {{< tdclose >}}
 {{< tdopen >}}
-Second Incompleteness Theorem ([PDF]({{< baseurl >}}/resources/2nd_incompletens))
+Second Incompleteness Theorem ({{% resource_link 6f9412ca-c174-5eab-23b3-26493be754fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +167,7 @@ Second Incompleteness Theorem ([PDF]({{< baseurl >}}/resources/2nd_incompletens)
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Modal Logic ([PDF]({{< baseurl >}}/resources/modal_logic))
+Introduction to Modal Logic ({{% resource_link 14fd086c-8c3e-df68-af8b-3d7d9653d36f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +176,7 @@ Introduction to Modal Logic ([PDF]({{< baseurl >}}/resources/modal_logic))
 23-24
 {{< tdclose >}}
 {{< tdopen >}}
-Provability Logic ([PDF]({{< baseurl >}}/resources/provablity_logic))
+Provability Logic ({{% resource_link a1710eb9-36dc-fe13-7dc5-e5e0ad61b4f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +185,7 @@ Provability Logic ([PDF]({{< baseurl >}}/resources/provablity_logic))
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Defining Exponentiation ([PDF]({{< baseurl >}}/resources/exponentiation))
+Defining Exponentiation ({{% resource_link 6f694a7f-f7c9-c20c-60e0-fa5ef4486142 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

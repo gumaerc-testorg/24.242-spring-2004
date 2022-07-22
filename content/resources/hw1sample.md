@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/82e189138094e97564ff891424483d5a_hw1s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw1sample.pdf
 uid: 82e18913-8094-e975-64ff-891424483d5a
 ---
 This file contains questions asked in the assignment.
-

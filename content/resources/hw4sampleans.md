@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/b3d40cafba08cdf25a79893fbc40caee_hw4s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw4sampleans.pdf
 uid: b3d40caf-ba08-cdf2-5a79-893fbc40caee
 ---
 Sample solutions to the homework problems.
-

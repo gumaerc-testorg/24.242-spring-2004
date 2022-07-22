@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/a1710eb936dcfe137dc5e5e0ad61b4f1_prov
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: provablity_logic.pdf
 uid: a1710eb9-36dc-fe13-7dc5-e5e0ad61b4f1
 ---
 This resource explains the logic of provability with its related theorems.
-

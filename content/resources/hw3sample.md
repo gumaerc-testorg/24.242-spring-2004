@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/26b4c0c16dc311c0adb839ea99c0faa0_hw3s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw3sample.pdf
 uid: 26b4c0c1-6dc3-11c0-adb8-39ea99c0faa0
 ---
 New file Uplaod
-

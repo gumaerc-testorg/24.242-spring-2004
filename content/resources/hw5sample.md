@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/6260beb00c4186c194b0077858e75ac0_hw5s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw5sample.pdf
 uid: 6260beb0-0c41-86c1-94b0-077858e75ac0
 ---
 New file Uplaod
-

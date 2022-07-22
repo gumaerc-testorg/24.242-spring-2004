@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/e54af08ef5dedb9f2451fbbe7a99e295_hw4s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw4sample.pdf
 uid: e54af08e-f5de-db9f-2451-fbbe7a99e295
 ---
 New file Uplaod
-

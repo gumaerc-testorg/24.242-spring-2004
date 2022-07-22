@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/9f87d9cc6dc1b123c1fbdf0ecf00b7dd_hw3s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw3sampleans.pdf
 uid: 9f87d9cc-6dc1-b123-c1fb-df0ecf00b7dd
 ---
 This file contains the answers to the questions asked in homework 3.
-

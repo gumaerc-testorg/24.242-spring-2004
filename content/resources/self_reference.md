@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/98fe206da995b1dd18ceaf5eaf851b09_self
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: self_reference.pdf
 uid: 98fe206d-a995-b1dd-18ce-af5eaf851b09
 ---
 This resource explains 'Self- reference Lemma' with its proof.
-

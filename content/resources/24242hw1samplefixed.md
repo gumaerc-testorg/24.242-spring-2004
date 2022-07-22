@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/030950dab5b5dcb7e15880803c8d93ac_2424
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

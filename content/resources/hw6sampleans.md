@@ -5,6 +5,7 @@ file: /courses/24-242-logic-ii-spring-2004/9eed5f08d5001e2ac30dc3c88926c750_hw6s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw6sampleans.pdf
 uid: 9eed5f08-d500-1e2a-c30d-c3c88926c750
 ---
 This file contains the answers to the questions asked in homework 6.
-

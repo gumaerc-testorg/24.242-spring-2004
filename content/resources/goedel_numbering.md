@@ -6,6 +6,7 @@ file: /courses/24-242-logic-ii-spring-2004/ece70acfd3a0f1284ae0503ac8cf40d5_goed
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: goedel_numbering.pdf
 uid: ece70acf-d3a0-f128-4ae0-503ac8cf40d5
 ---
 This resource explains the topic 'Goedel Numbering' and various theorems related to the subject.
-

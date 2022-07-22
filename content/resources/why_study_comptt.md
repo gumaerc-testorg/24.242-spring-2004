@@ -6,6 +6,7 @@ file: /courses/24-242-logic-ii-spring-2004/20c09c32f5c237d1fb4207a83153dbb5_why_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: why_study_comptt.pdf
 uid: 20c09c32-f5c2-37d1-fb42-07a83153dbb5
 ---
 This resource explains the topic 'Why Study Computability' using Church-Turning Theorm.
-

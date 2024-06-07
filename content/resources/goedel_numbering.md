@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains the topic 'Goedel Numbering' and various theorems
   related to the subject.
 file: /courses/24-242-logic-ii-spring-2004/ece70acfd3a0f1284ae0503ac8cf40d5_goedel_numbering.pdf
+file_size: 366454
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

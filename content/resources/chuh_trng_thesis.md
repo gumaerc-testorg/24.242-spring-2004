@@ -5,6 +5,7 @@ description: 'This resource explains ''The Church-Turing Thesis''. It also expla
   Markov algorithms, Representability in a theory, and various theorems related to
   the subject.'
 file: /courses/24-242-logic-ii-spring-2004/489f7e42fb619645158d7c21a8fb83ad_chuh_trng_thesis.pdf
+file_size: 415886
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

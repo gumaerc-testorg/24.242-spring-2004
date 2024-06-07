@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Uplaod
 file: /courses/24-242-logic-ii-spring-2004/6b1f0316080c202452dc4f9907c0cd52_hw6sample.pdf
+file_size: 20953
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains the topic 'Why Study Computability' using Church-Turning
   Theorm.
 file: /courses/24-242-logic-ii-spring-2004/20c09c32f5c237d1fb4207a83153dbb5_why_study_comptt.pdf
+file_size: 385013
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

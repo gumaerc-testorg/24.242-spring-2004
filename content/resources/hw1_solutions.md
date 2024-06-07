@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-242-logic-ii-spring-2004/a7f3c362d9fbb186d02dfade985dc257_hw1_solutions.pdf
+file_size: 107030
 file_type: application/pdf
 learning_resource_types:
 - Assignments

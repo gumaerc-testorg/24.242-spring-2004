@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the answers to the questions asked in homework 8.
-file: /courses/24-242-logic-ii-spring-2004/dad841dc28c9effb8ee1d565ff54ae11_hw8sampleans.pdf
+file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/dad841dc28c9effb8ee1d565ff54ae11_hw8sampleans.pdf
 file_size: 68895
 file_type: application/pdf
 learning_resource_types:

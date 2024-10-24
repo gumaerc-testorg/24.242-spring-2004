@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the answers to the questions asked in the homework
   7.
-file: /courses/24-242-logic-ii-spring-2004/97074cfd7abdb27eec782d519ee0cea7_hw7sampleans.pdf
+file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/97074cfd7abdb27eec782d519ee0cea7_hw7sampleans.pdf
 file_size: 18174
 file_type: application/pdf
 learning_resource_types:

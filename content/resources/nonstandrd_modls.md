@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the concept of nonstandard models of true arithmetic.
-file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/ef3e9da20b387581eee9daef90a4ab82_nonstandrd_modls.pdf
+file: /courses/24-242-logic-ii-spring-2004/ef3e9da20b387581eee9daef90a4ab82_nonstandrd_modls.pdf
 file_size: 226628
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/e54af08ef5dedb9f2451fbbe7a99e295_hw4sample.pdf
+file: /courses/24-242-logic-ii-spring-2004/e54af08ef5dedb9f2451fbbe7a99e295_hw4sample.pdf
 file_size: 56852
 file_type: application/pdf
 learning_resource_types:

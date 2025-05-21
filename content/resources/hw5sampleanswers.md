@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/d9cd239fdc0781a6eaa16e808bbbd33e_HW5Sampleanswers.pdf
+file: /courses/24-242-logic-ii-spring-2004/d9cd239fdc0781a6eaa16e808bbbd33e_HW5Sampleanswers.pdf
 file_size: 271270
 file_type: application/pdf
 learning_resource_types:

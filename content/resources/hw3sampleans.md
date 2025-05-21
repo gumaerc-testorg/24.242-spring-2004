@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the answers to the questions asked in homework 3.
-file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/9f87d9cc6dc1b123c1fbdf0ecf00b7dd_hw3sampleans.pdf
+file: /courses/24-242-logic-ii-spring-2004/9f87d9cc6dc1b123c1fbdf0ecf00b7dd_hw3sampleans.pdf
 file_size: 31054
 file_type: application/pdf
 learning_resource_types:

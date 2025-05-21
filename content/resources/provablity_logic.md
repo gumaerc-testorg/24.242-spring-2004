@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the logic of provability with its related theorems.
-file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/a1710eb936dcfe137dc5e5e0ad61b4f1_provablity_logic.pdf
+file: /courses/24-242-logic-ii-spring-2004/a1710eb936dcfe137dc5e5e0ad61b4f1_provablity_logic.pdf
 file_size: 602625
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample solutions to the homework problems.
-file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/03fa4666e98d99cc0b1ddcee41c3fc22_hw2sampleans.pdf
+file: /courses/24-242-logic-ii-spring-2004/03fa4666e98d99cc0b1ddcee41c3fc22_hw2sampleans.pdf
 file_size: 30354
 file_type: application/pdf
 learning_resource_types:

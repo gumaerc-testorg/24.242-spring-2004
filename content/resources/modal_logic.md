@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the Modal Logic and its related theorem.
-file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/14fd086c8c3edf68af8b3d7d9653d36f_modal_logic.pdf
+file: /courses/24-242-logic-ii-spring-2004/14fd086c8c3edf68af8b3d7d9653d36f_modal_logic.pdf
 file_size: 358817
 file_type: application/pdf
 learning_resource_types:

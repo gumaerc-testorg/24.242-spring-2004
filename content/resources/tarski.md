@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains tarski's theory of truth. It also explains the
   Convention T used for this theory.
-file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/85ec169dba3ea9192b8fabf6e4b097df_tarski.pdf
+file: /courses/24-242-logic-ii-spring-2004/85ec169dba3ea9192b8fabf6e4b097df_tarski.pdf
 file_size: 495970
 file_type: application/pdf
 learning_resource_types:

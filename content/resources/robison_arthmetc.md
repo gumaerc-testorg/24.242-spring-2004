@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains the topic 'Robinson's Arithmetic' with the proofs
   of various theorems and corollaries related to the subject.
-file: /courses/24-242-logic-ii-spring-2004/14eebb48bc5835bd1b0286b965aff439_robison_arthmetc.pdf
+file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/14eebb48bc5835bd1b0286b965aff439_robison_arthmetc.pdf
 file_size: 335852
 file_type: application/pdf
 learning_resource_types:

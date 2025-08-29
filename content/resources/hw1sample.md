@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions asked in the assignment.
-file: /courses/24-242-logic-ii-spring-2004/82e189138094e97564ff891424483d5a_hw1sample.pdf
+file: /ol-ocw-studio-app/courses/24-242-logic-ii-spring-2004/82e189138094e97564ff891424483d5a_hw1sample.pdf
 file_size: 24046
 file_type: application/pdf
 learning_resource_types:
